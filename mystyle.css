@@ -2,7 +2,7 @@
 
 body {
   width: 90%;
-  max-width: 1500px;
+  max-width: 1000px;
   margin: auto;
   background-color: black;
   color: black; /* text color */
@@ -13,4 +13,9 @@ h1 {
   font-family: 'Libre Baskerville', serif;
   color: white;
   font-size: 20px;
+}
+
+p {
+  font-family: 'Libre Baskerville', serif;
+  color: white;
 }
